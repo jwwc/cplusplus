@@ -5,7 +5,7 @@ n个节点的全排列问题可以看成是一个由n个节点组成的一个强
 #### 示例
 例如数组位{1，2，3，4}
 
-![GRAPH](https://github.com/jwwc/image/graph.png)
+![GRAPH](https://github.com/jwwc/cplusplus/image/graph.png)
 
 起点位1的情况有{1，2，3，4}，{1，2，4，3}，{1，3，2，4}，{1，3，4，2}，{1，4，2，3}，{1，4，3，2}
 
